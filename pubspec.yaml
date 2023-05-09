@@ -16,7 +16,7 @@ dependencies:
   meta: ^1.8.0
 
 dev_dependencies:
-  firebase_core: ^2.0.10
+  firebase_core: ^2.11.0
   flutter_test:
     sdk: flutter
   mockito: ^5.4.0
